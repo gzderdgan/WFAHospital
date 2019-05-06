@@ -1,0 +1,10 @@
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\bin\Debug\WFAHospital.exe.config
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\bin\Debug\WFAHospital.exe
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\bin\Debug\WFAHospital.pdb
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\obj\Debug\WFAHospital.csprojAssemblyReference.cache
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\obj\Debug\WFAHospital.Form1.resources
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\obj\Debug\WFAHospital.Properties.Resources.resources
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\obj\Debug\WFAHospital.csproj.GenerateResource.cache
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\obj\Debug\WFAHospital.csproj.CoreCompileInputs.cache
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\obj\Debug\WFAHospital.exe
+C:\Users\Gozde Erdogan\source\repos\WFAHospital\WFAHospital\obj\Debug\WFAHospital.pdb
